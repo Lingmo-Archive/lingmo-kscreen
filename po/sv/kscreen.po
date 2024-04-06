@@ -1,0 +1,46 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Stefan Asserhäll <stefan.asserhall@bredband.net>, 2013, 2016, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-16 03:40+0100\n"
+"PO-Revision-Date: 2018-04-13 23:00+0100\n"
+"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
+"Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: daemon.cpp:94
+msgid "Switch Display"
+msgstr "Byt bildskärm"
+
+#: osdaction.cpp:49
+msgid "Switch to external screen"
+msgstr "Byt till extern bildskärm"
+
+#: osdaction.cpp:50
+msgid "Switch to laptop screen"
+msgstr "Byt till bärbar datorskärm "
+
+#: osdaction.cpp:51
+msgid "Unify outputs"
+msgstr "Sammanslå utgångar"
+
+#: osdaction.cpp:52
+msgid "Extend to left"
+msgstr "Utöka åt vänster"
+
+#: osdaction.cpp:53
+msgid "Extend to right"
+msgstr "Utökad åt höger"
+
+#: osdaction.cpp:54
+msgid "Leave unchanged"
+msgstr "Lämna orört"

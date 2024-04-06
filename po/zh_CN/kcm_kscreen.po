@@ -1,0 +1,240 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Weng Xuetian <wengxt@gmail.com>, 2015, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeorg\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-05-15 03:59+0200\n"
+"PO-Revision-Date: 2021-01-03 09:07\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kdeorg\n"
+"X-Crowdin-Project-ID: 269464\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /kf5-stable/messages/kscreen/kcm_kscreen.pot\n"
+"X-Crowdin-File-ID: 10986\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "KDE China,Guo Yunhe,Tyson Tan"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kde-china@kde.org,i@guoyunhe.me,tysontan@tysontan.com"
+
+#: kcm.cpp:59
+#, kde-format
+msgid "Display Configuration"
+msgstr "显示器配置"
+
+#: kcm.cpp:61
+#, kde-format
+msgid "Manage and configure monitors and displays"
+msgstr "管理和配置显示器"
+
+#: kcm.cpp:63
+#, kde-format
+msgid "Copyright © 2019 Roman Gilg"
+msgstr "版权 © 2019 Roman Gilg"
+
+#: kcm.cpp:64
+#, kde-format
+msgid "Roman Gilg"
+msgstr "Roman Gilg"
+
+#: kcm.cpp:65
+#, kde-format
+msgid "Developer"
+msgstr "开发者"
+
+#: output_model.cpp:85
+#, kde-format
+msgid "%1 Hz"
+msgstr "%1 Hz"
+
+#: output_model.cpp:496
+#, kde-format
+msgctxt "Width x height (aspect ratio)"
+msgid "%1x%2 (%3:%4)"
+msgstr "%1x%2 (%3:%4)"
+
+#: output_model.cpp:572
+#, kde-format
+msgid "None"
+msgstr "无"
+
+#: output_model.cpp:579
+#, kde-format
+msgid "Replicated by other output"
+msgstr "复制自其他输出"
+
+#: package/contents/ui/main.qml:44
+#, kde-format
+msgid ""
+"Are you sure you want to disable all outputs? This might render the device "
+"unusable."
+msgstr "您确定要禁用所有输出吗？这可能导致设备无法使用。"
+
+#: package/contents/ui/main.qml:50
+#, kde-format
+msgid "Disable All Outputs"
+msgstr "禁用所有输出"
+
+#: package/contents/ui/main.qml:62
+#, kde-format
+msgid "No KScreen backend found. Please check your KScreen installation."
+msgstr "没有找到 KScreen 后端。请检查您的 KScreen 安装。"
+
+#: package/contents/ui/main.qml:70
+#, kde-format
+msgid "Outputs could not be saved due to error."
+msgstr "由于错误，输出配置无法保存。"
+
+#: package/contents/ui/main.qml:78
+#, kde-format
+msgid "New global scale applied. Change will come into effect after restart."
+msgstr "全局缩放更改将在重启后生效。"
+
+#: package/contents/ui/main.qml:97
+#, kde-format
+msgid "A new output has been added. Settings have been reloaded."
+msgstr "已添加新输出设备。设置已重新加载。"
+
+#: package/contents/ui/main.qml:99
+#, kde-format
+msgid "An output has been removed. Settings have been reloaded."
+msgstr "已移除输出设备。设置已重新加载。"
+
+#: package/contents/ui/Orientation.qml:23
+#, kde-format
+msgid "Orientation:"
+msgstr "方向："
+
+#: package/contents/ui/Orientation.qml:37
+#, kde-format
+msgid "Automatic"
+msgstr "自动"
+
+#: package/contents/ui/Orientation.qml:46
+#, kde-format
+msgid "Only when in tablet mode."
+msgstr "仅在平板模式下使用。"
+
+#: package/contents/ui/Orientation.qml:55
+#, kde-format
+msgid "Manual"
+msgstr "手动"
+
+#: package/contents/ui/Output.qml:154
+#, kde-format
+msgid "Replicas"
+msgstr "复制"
+
+#: package/contents/ui/OutputPanel.qml:32
+#, kde-format
+msgid "Enabled"
+msgstr "已启用"
+
+#: package/contents/ui/OutputPanel.qml:39
+#, kde-format
+msgid "Primary"
+msgstr "主要"
+
+#: package/contents/ui/OutputPanel.qml:46
+#, kde-format
+msgid "Resolution:"
+msgstr "分辨率："
+
+#: package/contents/ui/OutputPanel.qml:57
+#, kde-format
+msgid "Scale:"
+msgstr "缩放率："
+
+#: package/contents/ui/OutputPanel.qml:86 package/contents/ui/Panel.qml:117
+#, kde-format
+msgctxt "Global scale factor expressed in percentage form"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/OutputPanel.qml:98
+#, kde-format
+msgid "Refresh rate:"
+msgstr "刷新率："
+
+#: package/contents/ui/OutputPanel.qml:106
+#, kde-format
+msgid "Replica of:"
+msgstr "复制自："
+
+#: package/contents/ui/Panel.qml:30
+#, kde-format
+msgid "Device:"
+msgstr "设备："
+
+#: package/contents/ui/Panel.qml:81
+#, kde-format
+msgid "Global scale:"
+msgstr "全局缩放率："
+
+#: package/contents/ui/Panel.qml:138
+#, kde-format
+msgid ""
+"The global scale factor is limited to multiples of 6.25% to minimize visual "
+"glitches in applications using the X11 windowing system."
+msgstr ""
+"全局缩放系数被限定为 6.25% 的倍数，以减少应用程序在 X11 窗口系统中出现的视觉"
+"毛刺。"
+
+#: package/contents/ui/Panel.qml:150
+#, kde-format
+msgid "Save displays' properties:"
+msgstr "保存显示器配置："
+
+#: package/contents/ui/Panel.qml:156
+#, kde-format
+msgid "For any display arrangement"
+msgstr "对任意显示器组合"
+
+#: package/contents/ui/Panel.qml:163
+#, kde-format
+msgid "For only this specific display arrangement"
+msgstr "仅此特定显示器组合"
+
+#: package/contents/ui/RotationButton.qml:61
+#, kde-format
+msgid "90° Clockwise"
+msgstr "顺时针转 90°"
+
+#: package/contents/ui/RotationButton.qml:65
+#, kde-format
+msgid "Upside Down"
+msgstr "上下颠倒"
+
+#: package/contents/ui/RotationButton.qml:69
+#, kde-format
+msgid "90° Counterclockwise"
+msgstr "逆时针转 90°"
+
+#: package/contents/ui/RotationButton.qml:74
+#, kde-format
+msgid "No Rotation"
+msgstr "不旋转"
+
+#: package/contents/ui/Screen.qml:63
+#, kde-format
+msgid "Drag screens to re-arrange them"
+msgstr "拖拽屏幕以重新排列它们"
+
+#: package/contents/ui/Screen.qml:76
+#, kde-format
+msgid "Identify"
+msgstr "识别"

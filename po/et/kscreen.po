@@ -1,0 +1,46 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Marek Laane <qiilaq69@gmail.com>, 2016, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-16 03:40+0100\n"
+"PO-Revision-Date: 2019-10-31 00:08+0200\n"
+"Last-Translator: Marek Laane <qiilaq69@gmail.com>\n"
+"Language-Team: Estonian <kde-et@lists.linux.ee>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.08.1\n"
+
+#: daemon.cpp:94
+msgid "Switch Display"
+msgstr "Vaheta monitori"
+
+#: osdaction.cpp:49
+msgid "Switch to external screen"
+msgstr "Lülitu välisele ekraanile"
+
+#: osdaction.cpp:50
+msgid "Switch to laptop screen"
+msgstr "Lülitu sülearvuti ekraanile"
+
+#: osdaction.cpp:51
+msgid "Unify outputs"
+msgstr "Ühenda väljundid"
+
+#: osdaction.cpp:52
+msgid "Extend to left"
+msgstr "Laienda vasakule"
+
+#: osdaction.cpp:53
+msgid "Extend to right"
+msgstr "Laienda paremale"
+
+#: osdaction.cpp:54
+msgid "Leave unchanged"
+msgstr "Ei muudeta"

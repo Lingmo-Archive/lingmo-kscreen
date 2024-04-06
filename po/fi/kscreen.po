@@ -1,0 +1,70 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Lasse Liehu <lasse.liehu@gmail.com>, 2013.
+# Tommi Nieminen <translator@legisign.org>, 2016, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-16 03:40+0100\n"
+"PO-Revision-Date: 2018-07-23 12:57+0200\n"
+"Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
+"Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: daemon.cpp:94
+msgid "Switch Display"
+msgstr "Vaihda näyttöä"
+
+#: osdaction.cpp:49
+msgid "Switch to external screen"
+msgstr "Vaihda ulkoiseen näyttöön"
+
+#: osdaction.cpp:50
+msgid "Switch to laptop screen"
+msgstr "Vaihda kannettavan näyttöön"
+
+#: osdaction.cpp:51
+msgid "Unify outputs"
+msgstr "Yhdistä näytöt"
+
+#: osdaction.cpp:52
+msgid "Extend to left"
+msgstr "Laajenna vasemmalle"
+
+# *** TARKISTA: ”Extend left” mutta ”Extended right”, jompikumpi lienee väärin?
+#: osdaction.cpp:53
+msgid "Extend to right"
+msgstr "Laajenna oikealle"
+
+#: osdaction.cpp:54
+msgid "Leave unchanged"
+msgstr "Ei muutoksia"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# *** TARKISTA: Tarkoittaako esim. kannettavaa omaa näyttöä, jolloin ”sisäinen” on hassu

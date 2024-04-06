@@ -1,0 +1,78 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kscreen package.
+#
+# Giovanni Sora <g.sora@tiscali.it>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: kscreen\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"PO-Revision-Date: 2019-12-25 21:39+0100\n"
+"Last-Translator: Giovanni Sora <g.sora@tiscali.it>\n"
+"Language-Team: Interlingua <kde-i18n-doc@kde.org>\n"
+"Language: ia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: package/contents/ui/main.qml:40
+#, kde-format
+msgid "Presentation mode is enabled"
+msgstr "Modo de presentation es habilitate"
+
+#: package/contents/ui/main.qml:44
+#, kde-format
+msgctxt "Open the full display settings module"
+msgid "Advanced Display Settings"
+msgstr "Advanced Display Settings(Preferentias de monstrator avantiate)"
+
+#: package/contents/ui/PresentationModeItem.qml:39
+#, kde-format
+msgid "Enable Presentation Mode"
+msgstr "Habilita modo de presentation"
+
+#: package/contents/ui/PresentationModeItem.qml:53
+#, kde-format
+msgid "User enabled presentation mode"
+msgstr "Modo de presentation habilitate per le usator"
+
+#: package/contents/ui/PresentationModeItem.qml:83
+#, kde-format
+msgid ""
+"This will prevent your screen and computer from turning off automatically."
+msgstr ""
+
+#: package/contents/ui/PresentationModeItem.qml:110
+#, kde-format
+msgctxt "Some Application and n others enforce presentation mode"
+msgid "%2 and %1 other application are enforcing presentation mode."
+msgid_plural "%2 and %1 other applications are enforcing presentation mode."
+msgstr[0] ""
+msgstr[1] ""
+
+#: package/contents/ui/PresentationModeItem.qml:116
+#, kde-format
+msgctxt "Some Application enforce presentation mode"
+msgid "%1 is enforcing presentation mode."
+msgstr ""
+
+#: package/contents/ui/PresentationModeItem.qml:119
+#, kde-format
+msgctxt ""
+"Some Application enforce presentation mode: Reason provided by the app"
+msgid "%1 is enforcing presentation mode: %2"
+msgstr ""
+
+#: package/contents/ui/ScreenLayoutSelection.qml:54
+#, kde-format
+msgid "Screen Layout"
+msgstr "Disposition de schermo"
+
+#: package/contents/ui/ScreenLayoutSelection.qml:93
+#, kde-format
+msgid ""
+"You can only apply a different screen layout when there is more than one "
+"display device plugged in."
+msgstr ""

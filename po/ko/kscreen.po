@@ -1,0 +1,46 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Shinjo Park <kde@peremen.name>, 2014, 2016, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-16 03:40+0100\n"
+"PO-Revision-Date: 2018-08-14 14:37+0100\n"
+"Last-Translator: Shinjo Park <kde@peremen.name>\n"
+"Language-Team: Korean <kde-kr@kde.org>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: daemon.cpp:94
+msgid "Switch Display"
+msgstr "화면 전환"
+
+#: osdaction.cpp:49
+msgid "Switch to external screen"
+msgstr "외부 화면으로 전환"
+
+#: osdaction.cpp:50
+msgid "Switch to laptop screen"
+msgstr "노트북 화면으로 전환"
+
+#: osdaction.cpp:51
+msgid "Unify outputs"
+msgstr "출력 통합"
+
+#: osdaction.cpp:52
+msgid "Extend to left"
+msgstr "왼쪽으로 확장"
+
+#: osdaction.cpp:53
+msgid "Extend to right"
+msgstr "오른쪽으로 확장"
+
+#: osdaction.cpp:54
+msgid "Leave unchanged"
+msgstr "변경하지 않기"

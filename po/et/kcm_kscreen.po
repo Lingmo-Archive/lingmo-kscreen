@@ -1,0 +1,239 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Marek Laane <qiilaq69@gmail.com>, 2016, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-05-15 03:59+0200\n"
+"PO-Revision-Date: 2020-05-15 08:25+0300\n"
+"Last-Translator: Marek Laane <qiilaq69@gmail.com>\n"
+"Language-Team: Estonian <kde-et@lists.linux.ee>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.12.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Marek Laane"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "qiilaq69@gmail.com"
+
+#: kcm.cpp:59
+#, kde-format
+msgid "Display Configuration"
+msgstr "Ekraani seadistamine"
+
+#: kcm.cpp:61
+#, kde-format
+msgid "Manage and configure monitors and displays"
+msgstr "Monitoride ja ekraanide haldamine ja seadistamine"
+
+#: kcm.cpp:63
+#, kde-format
+msgid "Copyright © 2019 Roman Gilg"
+msgstr "Autoriõigus © 2019: Roman Gilg"
+
+#: kcm.cpp:64
+#, kde-format
+msgid "Roman Gilg"
+msgstr "Roman Gilg"
+
+#: kcm.cpp:65
+#, kde-format
+msgid "Developer"
+msgstr "Arendaja"
+
+#: output_model.cpp:85
+#, kde-format
+msgid "%1 Hz"
+msgstr "%1 Hz"
+
+#: output_model.cpp:496
+#, kde-format
+msgctxt "Width x height (aspect ratio)"
+msgid "%1x%2 (%3:%4)"
+msgstr "%1x%2 (%3:%4)"
+
+#: output_model.cpp:572
+#, kde-format
+msgid "None"
+msgstr "Puudub"
+
+#: output_model.cpp:579
+#, kde-format
+msgid "Replicated by other output"
+msgstr "Teise väljundi koopia"
+
+#: package/contents/ui/main.qml:44
+#, kde-format
+msgid ""
+"Are you sure you want to disable all outputs? This might render the device "
+"unusable."
+msgstr "Kas tõesti keelata kõik väljundid? See võib muuta seadme kasutuks."
+
+#: package/contents/ui/main.qml:50
+#, kde-format
+msgid "Disable All Outputs"
+msgstr "Keela kõik väljundid"
+
+#: package/contents/ui/main.qml:62
+#, kde-format
+msgid "No KScreen backend found. Please check your KScreen installation."
+msgstr ""
+"KScreeni taustaprogrammi ei leitud. Palun kontrolli KScreeni paigaldust."
+
+#: package/contents/ui/main.qml:70
+#, kde-format
+msgid "Outputs could not be saved due to error."
+msgstr "Tõrke tõttu ei saanud väljundeid salvestada."
+
+#: package/contents/ui/main.qml:78
+#, kde-format
+msgid "New global scale applied. Change will come into effect after restart."
+msgstr ""
+"Rakendati uus globaalne skaleerimine. Muudatused rakenduvad alles pärast "
+"taaskäivitamist"
+
+#: package/contents/ui/main.qml:97
+#, kde-format
+msgid "A new output has been added. Settings have been reloaded."
+msgstr "Lisati uus väljund. Seadistused laaditakse uuesti."
+
+#: package/contents/ui/main.qml:99
+#, kde-format
+msgid "An output has been removed. Settings have been reloaded."
+msgstr "Väljund on eemaldatud. Seadistused laaditi uuesti."
+
+#: package/contents/ui/Orientation.qml:23
+#, kde-format
+msgid "Orientation:"
+msgstr "Suund:"
+
+#: package/contents/ui/Orientation.qml:37
+#, kde-format
+msgid "Automatic"
+msgstr "Automaatne"
+
+#: package/contents/ui/Orientation.qml:46
+#, kde-format
+msgid "Only when in tablet mode."
+msgstr "Ainult tahvlirežiimis."
+
+#: package/contents/ui/Orientation.qml:55
+#, kde-format
+msgid "Manual"
+msgstr "Käsitsi"
+
+#: package/contents/ui/Output.qml:154
+#, kde-format
+msgid "Replicas"
+msgstr "Koopiad"
+
+#: package/contents/ui/OutputPanel.qml:32
+#, kde-format
+msgid "Enabled"
+msgstr "Lubatud"
+
+#: package/contents/ui/OutputPanel.qml:39
+#, kde-format
+msgid "Primary"
+msgstr "Esmane"
+
+#: package/contents/ui/OutputPanel.qml:46
+#, kde-format
+msgid "Resolution:"
+msgstr "Lahutusvõime:"
+
+#: package/contents/ui/OutputPanel.qml:57
+#, kde-format
+msgid "Scale:"
+msgstr "Skaleerimine:"
+
+#: package/contents/ui/OutputPanel.qml:86 package/contents/ui/Panel.qml:117
+#, kde-format
+msgctxt "Global scale factor expressed in percentage form"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/OutputPanel.qml:98
+#, kde-format
+msgid "Refresh rate:"
+msgstr "Värskendamissagedus:"
+
+#: package/contents/ui/OutputPanel.qml:106
+#, kde-format
+msgid "Replica of:"
+msgstr "Kopeerib:"
+
+#: package/contents/ui/Panel.qml:30
+#, kde-format
+msgid "Device:"
+msgstr "Seade:"
+
+#: package/contents/ui/Panel.qml:81
+#, kde-format
+msgid "Global scale:"
+msgstr "Globaalne skaleerimine:"
+
+#: package/contents/ui/Panel.qml:138
+#, kde-format
+msgid ""
+"The global scale factor is limited to multiples of 6.25% to minimize visual "
+"glitches in applications using the X11 windowing system."
+msgstr ""
+"Globaalne skaleerimistegur on piiratud 6,25%-kordsete sammudega "
+"minimeerimaks visuaalseid häireid X11 aknasüsteemi tarvitamise korral."
+
+#: package/contents/ui/Panel.qml:150
+#, kde-format
+msgid "Save displays' properties:"
+msgstr "Ekraani omadused salvestatakse:"
+
+#: package/contents/ui/Panel.qml:156
+#, kde-format
+msgid "For any display arrangement"
+msgstr "kõigile ekraanipaigutustele"
+
+#: package/contents/ui/Panel.qml:163
+#, kde-format
+msgid "For only this specific display arrangement"
+msgstr "ainult sellele ekraanipaigutusele"
+
+#: package/contents/ui/RotationButton.qml:61
+#, kde-format
+msgid "90° Clockwise"
+msgstr "90° päripäeva"
+
+#: package/contents/ui/RotationButton.qml:65
+#, kde-format
+msgid "Upside Down"
+msgstr "Pea peal"
+
+#: package/contents/ui/RotationButton.qml:69
+#, kde-format
+msgid "90° Counterclockwise"
+msgstr "90° vastupäeva"
+
+#: package/contents/ui/RotationButton.qml:74
+#, kde-format
+msgid "No Rotation"
+msgstr "Ei pöörata"
+
+#: package/contents/ui/Screen.qml:63
+#, kde-format
+msgid "Drag screens to re-arrange them"
+msgstr "Lohista ekraane nende paigutuse muutmiseks"
+
+#: package/contents/ui/Screen.qml:76
+#, kde-format
+msgid "Identify"
+msgstr "Tuvasta"

@@ -1,0 +1,50 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Weng Xuetian <wengxt@gmail.com>, 2015, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeorg\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-16 03:40+0100\n"
+"PO-Revision-Date: 2021-01-03 09:07\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kdeorg\n"
+"X-Crowdin-Project-ID: 269464\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /kf5-stable/messages/kscreen/kscreen.pot\n"
+"X-Crowdin-File-ID: 2613\n"
+
+#: daemon.cpp:94
+msgid "Switch Display"
+msgstr "切换显示器"
+
+#: osdaction.cpp:49
+msgid "Switch to external screen"
+msgstr "切换到外接屏幕"
+
+#: osdaction.cpp:50
+msgid "Switch to laptop screen"
+msgstr "切换到笔记本屏幕"
+
+#: osdaction.cpp:51
+msgid "Unify outputs"
+msgstr "统一输出"
+
+#: osdaction.cpp:52
+msgid "Extend to left"
+msgstr "向左扩展"
+
+#: osdaction.cpp:53
+msgid "Extend to right"
+msgstr "向右扩展"
+
+#: osdaction.cpp:54
+msgid "Leave unchanged"
+msgstr "保持不变"

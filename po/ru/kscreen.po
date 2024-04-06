@@ -1,0 +1,51 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Yuri Efremov <yur.arh@gmail.com>, 2013.
+# Alexander Potashev <aspotashev@gmail.com>, 2016, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-16 03:40+0100\n"
+"PO-Revision-Date: 2018-09-22 03:05+0300\n"
+"Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Lokalize 2.0\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: daemon.cpp:94
+msgid "Switch Display"
+msgstr "Сменить экран"
+
+#: osdaction.cpp:49
+msgid "Switch to external screen"
+msgstr "Переключиться на внешний экран"
+
+#: osdaction.cpp:50
+msgid "Switch to laptop screen"
+msgstr "Переключиться на экран ноутбука"
+
+#: osdaction.cpp:51
+msgid "Unify outputs"
+msgstr "Синхронизировать выходы"
+
+#: osdaction.cpp:52
+msgid "Extend to left"
+msgstr "Продлить влево"
+
+#: osdaction.cpp:53
+msgid "Extend to right"
+msgstr "Продлить вправо"
+
+#: osdaction.cpp:54
+msgid "Leave unchanged"
+msgstr "Оставить без изменений"

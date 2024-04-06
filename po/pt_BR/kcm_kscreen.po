@@ -1,0 +1,244 @@
+# Translation of kcm_kscreen.po to Brazilian Portuguese
+# Copyright (C) 2015-2020 This file is copyright:
+# This file is distributed under the same license as the kscreen package.
+#
+# André Marcelo Alvarenga <alvarenga@kde.org>, 2015, 2016, 2019, 2020.
+# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2017, 2018, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: kscreen\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-05-15 03:59+0200\n"
+"PO-Revision-Date: 2020-06-01 17:36-0300\n"
+"Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
+"Language-Team: Brazilian Portuguese <kde-i18n-pt_BR@kde.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.04.0\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "André Marcelo Alvarenga"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "alvarenga@kde.org"
+
+#: kcm.cpp:59
+#, kde-format
+msgid "Display Configuration"
+msgstr "Configuração da tela"
+
+#: kcm.cpp:61
+#, kde-format
+msgid "Manage and configure monitors and displays"
+msgstr "Gerenciar e configurar os monitores e telas"
+
+#: kcm.cpp:63
+#, kde-format
+msgid "Copyright © 2019 Roman Gilg"
+msgstr "Copyright © 2019 Roman Gilg"
+
+#: kcm.cpp:64
+#, kde-format
+msgid "Roman Gilg"
+msgstr "Roman Gilg"
+
+#: kcm.cpp:65
+#, kde-format
+msgid "Developer"
+msgstr "Desenvolvedor"
+
+#: output_model.cpp:85
+#, kde-format
+msgid "%1 Hz"
+msgstr "%1 Hz"
+
+#: output_model.cpp:496
+#, kde-format
+msgctxt "Width x height (aspect ratio)"
+msgid "%1x%2 (%3:%4)"
+msgstr "%1x%2 (%3:%4)"
+
+#: output_model.cpp:572
+#, kde-format
+msgid "None"
+msgstr "Nenhum"
+
+#: output_model.cpp:579
+#, kde-format
+msgid "Replicated by other output"
+msgstr "Replicado por outra saída"
+
+#: package/contents/ui/main.qml:44
+#, kde-format
+msgid ""
+"Are you sure you want to disable all outputs? This might render the device "
+"unusable."
+msgstr ""
+"Deseja realmente desativar todas as saídas? Isto poderá inutilizar o "
+"dispositivo."
+
+#: package/contents/ui/main.qml:50
+#, kde-format
+msgid "Disable All Outputs"
+msgstr "Desativar todas as saídas"
+
+#: package/contents/ui/main.qml:62
+#, kde-format
+msgid "No KScreen backend found. Please check your KScreen installation."
+msgstr ""
+"Nenhuma infraestrutura do KScreen encontrada. Verifique a instalação do "
+"KScreen."
+
+#: package/contents/ui/main.qml:70
+#, kde-format
+msgid "Outputs could not be saved due to error."
+msgstr "As saídas não puderam ser salvas devido a um erro."
+
+#: package/contents/ui/main.qml:78
+#, kde-format
+msgid "New global scale applied. Change will come into effect after restart."
+msgstr ""
+"Foi aplicada uma nova escala global. As mudanças de escala serão percebidas "
+"após reiniciar."
+
+#: package/contents/ui/main.qml:97
+#, kde-format
+msgid "A new output has been added. Settings have been reloaded."
+msgstr "Uma nova saída foi adicionada. As configurações foram recarregadas."
+
+#: package/contents/ui/main.qml:99
+#, kde-format
+msgid "An output has been removed. Settings have been reloaded."
+msgstr "Uma saída foi removida. As configurações foram recarregadas."
+
+#: package/contents/ui/Orientation.qml:23
+#, kde-format
+msgid "Orientation:"
+msgstr "Orientação:"
+
+#: package/contents/ui/Orientation.qml:37
+#, kde-format
+msgid "Automatic"
+msgstr "Automático"
+
+#: package/contents/ui/Orientation.qml:46
+#, kde-format
+msgid "Only when in tablet mode."
+msgstr "Apenas quando estiver no modo tablet."
+
+#: package/contents/ui/Orientation.qml:55
+#, kde-format
+msgid "Manual"
+msgstr "Manual"
+
+#: package/contents/ui/Output.qml:154
+#, kde-format
+msgid "Replicas"
+msgstr "Réplicas"
+
+#: package/contents/ui/OutputPanel.qml:32
+#, kde-format
+msgid "Enabled"
+msgstr "Ativado"
+
+#: package/contents/ui/OutputPanel.qml:39
+#, kde-format
+msgid "Primary"
+msgstr "Primária"
+
+#: package/contents/ui/OutputPanel.qml:46
+#, kde-format
+msgid "Resolution:"
+msgstr "Resolução:"
+
+#: package/contents/ui/OutputPanel.qml:57
+#, kde-format
+msgid "Scale:"
+msgstr "Escala:"
+
+#: package/contents/ui/OutputPanel.qml:86 package/contents/ui/Panel.qml:117
+#, kde-format
+msgctxt "Global scale factor expressed in percentage form"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/OutputPanel.qml:98
+#, kde-format
+msgid "Refresh rate:"
+msgstr "Taxa de atualização:"
+
+#: package/contents/ui/OutputPanel.qml:106
+#, kde-format
+msgid "Replica of:"
+msgstr "Réplica de:"
+
+#: package/contents/ui/Panel.qml:30
+#, kde-format
+msgid "Device:"
+msgstr "Dispositivo:"
+
+#: package/contents/ui/Panel.qml:81
+#, kde-format
+msgid "Global scale:"
+msgstr "Escala global:"
+
+#: package/contents/ui/Panel.qml:138
+#, kde-format
+msgid ""
+"The global scale factor is limited to multiples of 6.25% to minimize visual "
+"glitches in applications using the X11 windowing system."
+msgstr ""
+"O fator de escala global está limitado a múltiplos de 6,25% para minimizar "
+"defeitos visuais nos aplicativos que usem o sistema de janelas X11."
+
+#: package/contents/ui/Panel.qml:150
+#, kde-format
+msgid "Save displays' properties:"
+msgstr "Salvar as propriedades da tela:"
+
+#: package/contents/ui/Panel.qml:156
+#, kde-format
+msgid "For any display arrangement"
+msgstr "Para qualquer arranjo de telas"
+
+#: package/contents/ui/Panel.qml:163
+#, kde-format
+msgid "For only this specific display arrangement"
+msgstr "Apenas para este arranjo de tela específico"
+
+#: package/contents/ui/RotationButton.qml:61
+#, kde-format
+msgid "90° Clockwise"
+msgstr "90° no sentido horário"
+
+#: package/contents/ui/RotationButton.qml:65
+#, kde-format
+msgid "Upside Down"
+msgstr "Cabeça para baixo"
+
+#: package/contents/ui/RotationButton.qml:69
+#, kde-format
+msgid "90° Counterclockwise"
+msgstr "90° no sentido anti-horário"
+
+#: package/contents/ui/RotationButton.qml:74
+#, kde-format
+msgid "No Rotation"
+msgstr "Sem rotação"
+
+#: package/contents/ui/Screen.qml:63
+#, kde-format
+msgid "Drag screens to re-arrange them"
+msgstr "Arraste as telas para reorganizá-las"
+
+#: package/contents/ui/Screen.qml:76
+#, kde-format
+msgid "Identify"
+msgstr "Identificar"

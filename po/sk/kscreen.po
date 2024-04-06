@@ -1,0 +1,44 @@
+# translation of kscreen.po Slovak
+# Roman Paholik <wizzardsk@gmail.com>, 2015, 2016, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: kscreen\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-16 03:40+0100\n"
+"PO-Revision-Date: 2018-04-12 21:25+0100\n"
+"Last-Translator: Roman Paholik <wizzardsk@gmail.com>\n"
+"Language-Team: Slovak <kde-sk@linux.sk>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: daemon.cpp:94
+msgid "Switch Display"
+msgstr "Prepnúť obrazovku"
+
+#: osdaction.cpp:49
+msgid "Switch to external screen"
+msgstr "Prepnúť na externú obrazovku"
+
+#: osdaction.cpp:50
+msgid "Switch to laptop screen"
+msgstr "Prepnúť na obrazovku laptopu"
+
+#: osdaction.cpp:51
+msgid "Unify outputs"
+msgstr "Zjednotiť výstupy"
+
+#: osdaction.cpp:52
+msgid "Extend to left"
+msgstr "Rozšíriť doľava"
+
+#: osdaction.cpp:53
+msgid "Extend to right"
+msgstr "Rozšíriť doprava"
+
+#: osdaction.cpp:54
+msgid "Leave unchanged"
+msgstr "Ponechať nezmenené"
